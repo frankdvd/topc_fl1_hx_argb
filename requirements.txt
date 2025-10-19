@@ -1,0 +1,2 @@
+# hidapi with Cython support for hid.Device API
+hidapi>=0.14.0
